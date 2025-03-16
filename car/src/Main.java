@@ -9,5 +9,6 @@ public class Car {
     public class void main(String[] args){
 
         System.out.println("A", 100);
+        System.out.printl("test");
     }
 }
